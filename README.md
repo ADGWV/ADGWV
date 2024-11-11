@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&text=كامونوهاشي%20رون&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37"/>
 
-## مرحبا بيك انا كامونوهاشي رون مطور بوتات واتساب
+**`مرحبا بيك انا كامونوهاشي رون مطور بوتات واتساب`**
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACT+ME+%E2%9C%A8" alt="Typing SVG" /></a>
@@ -57,4 +57,4 @@
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=merko)</a>
 <a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=cobalt)</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37&section=footer"/>
