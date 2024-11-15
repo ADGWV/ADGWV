@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&text=كامونوهاشي%20رون&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37"/>
-
+----------------
 **`مرحبا بيك انا كامونوهاشي رون مطور بوتات واتساب`**
-
+----------------
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&background=50505000&center=true&repeat=false&random=true&width=435&height=100&lines=%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA;%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9;%D8%A8%D9%8A;%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1;%E2%80%8C;%E2%80%8C" alt="Typing SVG" /></a>
 
@@ -51,10 +51,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
+----------------
+
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=cobalt)</a>
+
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=merko)</a>
+
 <a href="https://github.com/DIEGO-OFC/ShadowBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DIEGO-OFC&repo=ShadowBot-MD&theme=cobalt)</a>
+
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=merko)</a>
+
 <a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=cobalt)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37&section=footer"/>
