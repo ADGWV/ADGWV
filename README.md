@@ -6,9 +6,6 @@
 
 ----------------
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&background=50505000&center=true&repeat=false&random=true&width=435&height=100&lines=%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA;%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9;%D8%A8%D9%8A;%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1;%E2%80%8C;%E2%80%8C" alt="Typing SVG" /></a>
-
 <p align='center'>
 <a href="https://www.atom.bio/gatabot"><img height="40" src="https://cdn.icon-icons.com/icons2/566/PNG/128/link_icon-icons.com_54349.png"></a>
 <a href="mailto:centergatabot@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
