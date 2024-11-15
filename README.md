@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&text=كامونوهاشي%20رون&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37"/>
+
 ----------------
+
 **`مرحبا بيك انا كامونوهاشي رون مطور بوتات واتساب`**
+
 ----------------
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&background=50505000&center=true&repeat=false&random=true&width=435&height=100&lines=%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA;%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9;%D8%A8%D9%8A;%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1;%E2%80%8C;%E2%80%8C" alt="Typing SVG" /></a>
 
