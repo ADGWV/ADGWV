@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&text=كامونوهاشي%20رون&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFFFFF&text=كامونوهاشي%20رون&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37"/>
 
 ----------------
 
@@ -43,4 +43,4 @@
 
 <a href="https://github.com/ReyEndymion/ANI_MX_SCANS-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ReyEndymion&repo=ANI_MX_SCANS-MD&theme=cobalt)</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=84FFFF&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFFFFF&descAlign=50&animation=fadeIn&fontAlign=50&descAlignY=50&textBg=false&fontSize=50&fontAlignY=37&section=footer"/>
