@@ -7,7 +7,7 @@
 
 
 
-![17731219085864942823273934232576](https://github.com/user-attachments/assets/af124b72-64d7-4c74-90e5-6f0c5c1def97)
+![img](https://www.image2url.com/r2/default/images/1776862381700-4db2ca72-406f-4895-a413-e6e2239263b6.jpg)
 
 [![WhatsApp]( https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white ) واتساب ]( https://whatsapp.com/channel/0029Vb65nN49WtC3TGW9Xq11 )
 
